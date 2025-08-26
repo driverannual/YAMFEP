@@ -17,12 +17,3 @@ A easy-to-use script for Photoshop, so you can do that repetitive task to create
 
 
 Easy as it should be.
-
-      _                   __  
-     | |               _  \ \ 
-  ___| | __ _ _   _   (_)  | |
- / __| |/ _` | | | |       | |
-| (__| | (_| | |_| |   _   | |
- \___|_|\__,_|\__,_|  (_)  | |
-                          /_/ 
-                              
