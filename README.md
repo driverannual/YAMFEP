@@ -1,10 +1,10 @@
-### YAMFEP - Yet Another Multi-File Exporter For Photoshop
+# YAMFEP - Yet Another Multi-File Exporter For Photoshop
 
 A easy-to-use script for Photoshop, so you can do that repetitive task to create email signatures or anything you want running this script, exporting in JPG and saving time.
 
 
 
-##### How to use
+### How to use
 
 
 
