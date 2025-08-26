@@ -12,3 +12,5 @@ Go to the [releases page](https://github.com/driverannual/YAMFEP/releases/tag/re
 5. The file will be saved in your PSD folder.
 
 Easy as it should be.
+
+Feel free to add functions, just add a PR :)
