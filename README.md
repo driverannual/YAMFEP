@@ -1,6 +1,6 @@
 # YAMFEP - Yet Another Multi-File Exporter For Photoshop
 YAMFEP is an easy-to-use Photoshop script that activates specific layers by name (can be text, photos, or shapes), exports them as JPG, and deactivates them. You can automate repetitive tasks like creating email signatures for 50 people, or anything you need, saving valuable time.
-
+![Test Image 1](https://github.com/user-attachments/assets/cc212e76-7c20-455c-b013-28d2e16e5d59)
 # Download
 Go to the [releases page](https://github.com/driverannual/YAMFEP/releases/tag/release) and download the ZIP file. So you can export in any local you want.
 
