@@ -8,12 +8,12 @@ YAMFEP is an easy-to-use Photoshop script that activates specific layers by name
 Go to the [releases page](https://github.com/driverannual/YAMFEP/releases/tag/release) and download the ZIP file. So you can export in any local you want.
 
 ### How to use
-1. Add the names of the layers you want to export in the 'config.json' file, then save it.
-2. Turn off those layers in your PSD.
-3. Open the 'File' menu, go to 'Scripts', and select 'Browse'.
-4. Run script.js.
-5. The exported JPG files will be saved in the same folder as your PSD.
+1. Go to File > Scripts > Browse;
+2. Run 'script.js';
+3. Select the layers you want to export individually, unselect the permanent ones (like backgrounds or logos).
+
+That's all! The files will be saved in 'output', next to your PSD.
 
 Easy as it should be.
 
-Feel free to add functions, just add a PR :)
+Feel free to add functions, just PR it :)
