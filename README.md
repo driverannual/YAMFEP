@@ -9,7 +9,7 @@ Go to the [releases page](https://github.com/driverannual/YAMFEP/releases/) and 
 
 ### How to use
 1. Go to File > Scripts > Browse;
-2. Run 'script.js';
+2. Run 'script.jsx';
 3. Select the layers you want to export individually, unselect the permanent ones (like backgrounds or logos).
 
 That's all! The files will be saved in 'output', next to your PSD.
